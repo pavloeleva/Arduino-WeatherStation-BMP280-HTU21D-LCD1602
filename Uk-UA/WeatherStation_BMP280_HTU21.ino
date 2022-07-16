@@ -166,13 +166,14 @@ void loop() {
         
         ////// Зчитування показів датчиків
         // читаємо покази HTU21D і зберігаємо їх до цілих змінних
-        int tempHtu21 = round(htu.readTemperature());  //не використовується. Просто для порівняння з показами BMP280
+        int tempHtu21 = round(htu.readTemperature());  
         int humidity = round(htu.readHumidity());        
         // читанємо покази з BMP280 і зберігаємо їх до цілих змінних
         // (значення аргументу в методі read():  1 - атм.тиск в мм рт.ст.; 2 - в Па)
         sensor.read(1);
         int pressure = round(sensor.pressure);
-        int temperature = round(sensor.temperature);
+        int temperature = round(sensor.temperature); // покази температури беремо з BMP280. Якщо потрыбно брати з HTU21D, цей рядок слід закоментувати ...
+        //int temperature = round(tempHtu21); // ... і розкоментувати цей рядок
         
         ////// Вивід на дисплей
         // встановлюємо курсор на першу позицію верхнього рядка
