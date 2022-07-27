@@ -4,7 +4,7 @@
   <a href=""><img src="https://img.shields.io/badge/STEM-education-blue" /></a>
   <img src="https://img.shields.io/badge/arduino-project-yellowgreen"/>
   <img src="https://img.shields.io/badge/arduino-learning-orange"/>  
-  <img srec="https://img.shields.io/badge/GeekOn!-STEM--club-green"/>
+  <img src="https://img.shields.io/badge/GeekOn!-STEM--club-green"/>
 </div>
 
 <h1 align="center">Метеостанція Arduino</h1>
