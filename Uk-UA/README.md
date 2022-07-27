@@ -4,8 +4,10 @@
   <a href=""><img src="https://img.shields.io/badge/STEM-education-blue" /></a>
   <img src="https://img.shields.io/badge/arduino-project-yellowgreen"/>
   <img src="https://img.shields.io/badge/arduino-learning-orange"/>  
+  <img srec="https://img.shields.io/badge/GeekOn!-STEM--club-green"/>
 </div>
 
 <h1 align="center">Метеостанція Arduino</h1>
 <h2>Про проєкт</h2>
 <p>Цей проєкт створений для занять у СТЕМ-клубі GeekOn!</p>
+<p>Його метою є побудова пристрою, що може використовуватися у побуті та при вивченні природничих наук, а також узагальнення технологій підключення пристроїв та програмування мікроконтроллерів у середовищі Arduino</p>
