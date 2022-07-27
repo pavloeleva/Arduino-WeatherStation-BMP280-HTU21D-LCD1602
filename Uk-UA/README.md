@@ -1,5 +1,5 @@
 <h1><a href="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/README.md">Arduino-WeatherStation-BMP280-HTU21D-LCD1602</a></h1>
-<div id="badges_img">
+<div id="badges_img" align="center">
   <img src="https://img.shields.io/badge/STEM-education-blue" />
   <img src="https://img.shields.io/badge/arduino-project-yellowgreen"/>
   <img src="https://img.shields.io/badge/arduino-learning-orange"/>
