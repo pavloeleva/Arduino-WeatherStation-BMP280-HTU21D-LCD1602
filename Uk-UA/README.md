@@ -39,7 +39,9 @@
 <p>&nbsp;</p>
 <h2>Схема установки та опис її компонентів</h2>
 <p>Схему установки, зібраної на безпаєчній монтажній платі, показано на малюнку. За необхідності створення пристрою на постійній основі, доцільно зпаяти всі з'єднання та подбати про корпус для пристрою.</p>
-<img width="600" src="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/IMG/sheme.PNG" alt="Схема установки" />
+<div id="sheme" align="center">
+  <img width="600" src="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/IMG/sheme.PNG" alt="Схема установки" />
+</div>
 <h3>Список компонентів, що задіяні у проєкті</h3>
 <ul>
   <li>Плата розробника <strong>Arduino Uno</strong> або <strong>Arduino Nano</strong></li>
@@ -48,4 +50,5 @@
   <li>Модуль датчика тиску та температури <strong>BMP280</strong></li>
   <li>Модуль датчика температури та вологості <strong>HTU21D</strong></li>
   <li>Дисплей <strong>LCD1602</strong> з модулем <strong>I2C</strong></li>
+  <li>З'єднувальні проводи (dupon вбо інші)</li>
 </ul>
