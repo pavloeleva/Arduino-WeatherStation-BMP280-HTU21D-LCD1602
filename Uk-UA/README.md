@@ -41,7 +41,7 @@
   <li>Плата розробника <strong>Arduino Uno</strong> або <strong>Arduino Nano</strong></li>
   <li>Безпаячна макетна плата</li>
   <li>Модуль тактової кнопки</li>
-  <li>Модуль датчика тиску та температури <strong>BMP280,/strong></li>
+  <li>Модуль датчика тиску та температури <strong>BMP280</strong></li>
   <li>Модуль датчика температури та вологості <strong>HTU21D</strong></li>
   <li>Дисплей <strong>LCD1602</strong> з модулем <strong>I2C</strong></li>
 </ul>
