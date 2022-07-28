@@ -12,11 +12,11 @@
 <div id="geekon_logo" align="center">
   <a href="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/README.md#%D0%BF%D1%80%D0%BE-%D0%BF%D1%80%D0%BE%D1%94%D0%BA%D1%82"><img width="150" src="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/IMG/logo_geekon.png" alt=""/></a>
 </div>
-<p>Метою проєкту є:</p>
+<p>Метою проєкту є:
 <ul>
   <li>побудова пристрою, що може використовуватися у побуті та при вивченні природничих наук;</li>
   <li>узагальнення технологій підключення пристроїв та програмування мікроконтролерів у середовищі Arduino.</li>
-</ul>
+</ul></p>
 <h3>Теми, де можна використовувати дану метеостанцію</h3>
 <ul>
   <li>Температура та її вимірювання. Термометри.</li>
