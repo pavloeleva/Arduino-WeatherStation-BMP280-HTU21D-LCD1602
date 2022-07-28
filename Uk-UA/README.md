@@ -12,7 +12,7 @@
 <div id="geekon_logo" align="center">
   <a href="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/README.md#%D0%BF%D1%80%D0%BE-%D0%BF%D1%80%D0%BE%D1%94%D0%BA%D1%82"><img width="150" src="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/IMG/logo_geekon.png" alt=""/></a>
 </div>
-<p>Його метою є побудова пристрою, що може використовуватися у побуті та при вивченні природничих наук, а також узагальнення технологій підключення пристроїв та програмування мікроконтролерів у середовищі Arduino</p>
+<p>Метою порєкту є побудова пристрою, що може використовуватися у побуті та при вивченні природничих наук, а також узагальнення технологій підключення пристроїв та програмування мікроконтролерів у середовищі Arduino</p>
 <h3>Теми, де можна використовувати дану метеостанцію</h3>
 <ul>
   <li>Температура та її вимірювання. Термометри.</li>
@@ -38,10 +38,10 @@
 <img width="600" src="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/IMG/sheme.PNG" alt="Схема установки" />
 <h3>Список компонентів, що задіяні у проєкті</h3>
 <ul>
-  <li>Плата розробника Arduino Uno або Arduino Nano</li>
+  <li>Плата розробника <strong>Arduino Uno</strong> або <strong>Arduino Nano</strong></li>
   <li>Безпаячна макетна плата</li>
   <li>Модуль тактової кнопки</li>
-  <li>Модуль датчика тиску та температури BMP280</li>
-  <li>Модуль датчика температури та вологості HTU21D</li>
+  <li>Модуль датчика тиску та температури <strong>BMP280,/strong></li>
+  <li>Модуль датчика температури та вологості <strong>HTU21D</strong></li>
   <li>Дисплей <strong>LCD1602</strong> з модулем <strong>I2C</strong></li>
 </ul>
