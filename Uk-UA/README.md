@@ -28,3 +28,5 @@
   <li>Програмна обробка брязкоту контактів (кнопки)</li>
   <li>Виведення інформації на LCD-дисплей</li>
 </ul>
+<h2>Схема установки</h2>
+<img src="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/img/sheme.PNG" alt="Схема установки" />
