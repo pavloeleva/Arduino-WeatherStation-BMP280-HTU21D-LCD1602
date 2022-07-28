@@ -50,5 +50,5 @@
   <li>Модуль датчика тиску та температури <strong>BMP280</strong></li>
   <li>Модуль датчика температури та вологості <strong>HTU21D</strong></li>
   <li>Дисплей <strong>LCD1602</strong> з модулем <strong>I2C</strong></li>
-  <li>З'єднувальні проводи (dupon вбо інші)</li>
+  <li>З'єднувальні проводи (dupon або інші)</li>
 </ul>
