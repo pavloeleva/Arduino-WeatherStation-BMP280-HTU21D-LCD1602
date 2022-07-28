@@ -33,4 +33,5 @@
   <li>Виведення інформації на LCD-дисплей</li>
 </ul>
 <h2>Схема установки та опис її компонентів</h2>
+<p>Схему установки, зібраної на монтажній платі, показано на малюнку.</p>
 <img width="600" src="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/IMG/sheme.PNG" alt="Схема установки" />
