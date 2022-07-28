@@ -2,7 +2,7 @@
 <h1 align="center">Метеостанція Arduino</h1>
 <div id="badges_img" align="center">
   <a href=""><img src="https://img.shields.io/badge/STEM-education-blue" /></a>
-  <img src="https://img.shields.io/badge/arduino-project-yellowgreen"/>
+  <img src="https://img.shields.io/badge/arduino-project-yellowgreen" alt=""/>
   <img src="https://img.shields.io/badge/arduino-learning-orange"/>  
   <img src="https://img.shields.io/badge/GeekOn!-STEM--club-green"/>
 </div>
@@ -10,7 +10,7 @@
 <h2><strong>Про проєкт</strong></h2>
 <p>Цей проєкт створений для занять у СТЕМ-клубі GeekOn!</p>
 <div id="geekon_logo" align="center">
-  <img height="50%" src="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/IMG/logo.png" alt="GeekOn!"/>
+  <img height="50%" src="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/IMG/logo.png" alt=""/>
 </div>
 <p>Його метою є побудова пристрою, що може використовуватися у побуті та при вивченні природничих наук, а також узагальнення технологій підключення пристроїв та програмування мікроконтролерів у середовищі Arduino</p>
 <h3>Теми, де можна використовувати дану метеостанцію</h3>
