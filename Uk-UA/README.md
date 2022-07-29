@@ -2,7 +2,7 @@
 <h1 align="center">Метеостанція Arduino</h1>
 <div id="badges_img" align="center">
   <a href=""><img src="https://img.shields.io/badge/STEM-education-blue" /></a>
-  <img src="https://img.shields.io/badge/arduino-project-yellowgreen" alt=""/>
+  <img src="https://img.shields.io/badge/arduino-project-yellowgreen" alt=""/>&nbsp;
   <img src="https://img.shields.io/badge/arduino-learning-orange"/>  
   <img src="https://img.shields.io/badge/GeekOn!-STEM--club-green"/>
 </div>
