@@ -2,9 +2,9 @@
 <h1 align="center">Метеостанція Arduino</h1>
 <div id="badges_img" align="center">
   <a href=""><img src="https://img.shields.io/badge/STEM-education-blue" /></a>
-  <img src="https://img.shields.io/badge/arduino-project-yellowgreen" alt=""/>&nbsp;
-  <img src="https://img.shields.io/badge/arduino-learning-orange"/>  
-  <img src="https://img.shields.io/badge/GeekOn!-STEM--club-green"/>
+  <img src="https://img.shields.io/badge/arduino-project-yellowgreen" alt=""/>
+  <img src="https://img.shields.io/badge/arduino-learning-orange" alt=""/>  
+  <img src="https://img.shields.io/badge/GeekOn!-STEM--club-green" alt=""/>
 </div>
 <p><strong><em>Проєкт для навчання та створення діючого приладу</em></strong></p>
 <h2><strong>Про проєкт</strong></h2>
