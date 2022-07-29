@@ -44,7 +44,7 @@
   <img width="600" src="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/IMG/sheme.PNG" alt="Схема установки" />
   <p><em>Схема установки</em></p>
 </div>
-<p>Всі модулі, що задіяні у схемі, живляться від виходів $\color{green}{3{,}3\,\text{V}}$ та $5\,\text{V}$ плати Arduino.</p>
+<p>Всі модулі, що задіяні у схемі, живляться від виходів $3{,}3\,\text{V}$ та $5\,\text{V}$ плати Arduino.</p>
 <h3>Список компонентів, що задіяні у проєкті</h3>
 <ul>
   <li>Плата розробника <strong>Arduino Uno</strong> або <strong>Arduino Nano</strong></li>
