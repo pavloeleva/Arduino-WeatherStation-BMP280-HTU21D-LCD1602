@@ -43,6 +43,7 @@
 <div id="sheme" align="center">
   <img width="600" src="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/IMG/sheme.PNG" alt="Схема установки" />
 </div>
+<p>Всі модулі, що задіяні у схемі, живляться від виходів /$3{,}3\text{B}/$</p>
 <h3>Список компонентів, що задіяні у проєкті</h3>
 <ul>
   <li>Плата розробника <strong>Arduino Uno</strong> або <strong>Arduino Nano</strong></li>
