@@ -42,7 +42,7 @@
 <p>Схему установки, зібраної на безпаєчній монтажній платі, показано на малюнку. За необхідності створення пристрою на постійній основі, доцільно зпаяти всі з'єднання та подбати про корпус для пристрою.</p>
 <div id="sheme" align="center">
   <img width="600" src="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/IMG/sheme.PNG" alt="Схема установки" />
-  <div id="sheme_caption" color="green">
+  <div id="sheme_caption" align="left">
     <em>Схема установки</em>
   </div>
 </div>
