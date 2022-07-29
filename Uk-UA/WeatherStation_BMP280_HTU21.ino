@@ -186,20 +186,20 @@ void loop() {
         lcd.print("C");        
         lcd.setCursor(11, 0); // встановлюэмо курсор на одинадцяту позицію першого рядка
         // виводимо символ краплі та значення вологості повітря
-        lcd.print(char(3));  // можна, також, lcd.print("\4")
+        lcd.print(char(3));  // можна, також, lcd.print("\3")
         lcd.print(String(humidity));
         // знак відсотків
         lcd.print("%");
         lcd.setCursor(0, 1); // переводимо курсор на перший символ другого рядка 
         // виводимо символ парасолі, стрілки та значення атмосферного тиску на дисплей
         lcd.print(char(1));  // можна, також, lcd.print("\1")
-        lcd.print(char(4));  // можна, також, lcd.print("\5")
+        lcd.print(char(4));  // можна, також, lcd.print("\4")
         lcd.print(String(pressure));
         lcd.print("mmH");        
         lcd.setCursor(12, 1); // переводимо курсор на 14-у позицію другого рядка
         // логотип для випендрьожу)))
         lcd.print("G");
-        lcd.print(char(5)); // можна, також, lcd.print("\6")
+        lcd.print(char(5)); // можна, також, lcd.print("\5")
         lcd.print("!");
         // Вмикаємо підсвітку на час, зазначений аргументом в delay() ...
         lcd.backlight();
