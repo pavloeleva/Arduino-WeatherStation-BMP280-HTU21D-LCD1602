@@ -9,7 +9,7 @@
 <p><strong><em>Проєкт для навчання та створення діючого приладу</em></strong></p>
 <h2><strong>Про проєкт</strong></h2>
 <div id="geekon_logo" align="left">
-  <a href="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/README.md#%D0%BF%D1%80%D0%BE-%D0%BF%D1%80%D0%BE%D1%94%D0%BA%D1%82"><img width="150" src="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/IMG/logo_geekon.png" alt=""/></a>
+  <a href="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/README.md#%D0%BF%D1%80%D0%BE-%D0%BF%D1%80%D0%BE%D1%94%D0%BA%D1%82"><img width="120" src="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/IMG/logo_geekon.png" alt=""/></a>
 </div>
 <p>Цей проєкт створений для занять у СТЕМ-клубі GeekOn!</p>
 
