@@ -42,6 +42,7 @@
 <p>Схему установки, зібраної на безпаєчній монтажній платі, показано на малюнку. За необхідності створення пристрою на постійній основі, доцільно зпаяти всі з'єднання та подбати про корпус для пристрою.</p>
 <div id="sheme" align="center">
   <img width="600" src="https://github.com/pavloeleva/Arduino-WeatherStation-BMP280-HTU21D-LCD1602/blob/main/Uk-UA/IMG/sheme.PNG" alt="Схема установки" />
+  <div id="sheme_caption" font-size="small">Схема установки</div>
 </div>
 <p>Всі модулі, що задіяні у схемі, живляться від виходів $\color{green}{3{,}3\,\text{V}}$ та $5\,\text{V}$ плати Arduino.</p>
 <h3>Список компонентів, що задіяні у проєкті</h3>
