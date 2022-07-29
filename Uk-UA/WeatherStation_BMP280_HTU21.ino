@@ -178,7 +178,6 @@ void loop() {
         lcd.setCursor(0, 0);
         // виводимо символ термометра та значення температури на дисплей
         lcd.print(char(0));  // можна, також, lcd.print("\0")
-        //lcd.print(" ");
         if (temperature > 0) lcd.print("+");
         lcd.print(String(temperature));
         // прописуємо "°С"
