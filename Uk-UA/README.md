@@ -55,3 +55,12 @@
   <li>Дисплей <strong>LCD1602</strong> з модулем <strong>I2C</strong></li>
   <li>З'єднувальні проводи (dupon або інші)</li>
 </ul>
+
+```cpp
+// змінні для обробки натискання кнопки і її брязкоту
+const byte pinBtn = 10;              // пін плати Arduino, на який заведений вивід OUT модуля кнопки
+byte btnState;                       // стан кнопки (HIGH - нптиснута, LOW - не натиснута)
+byte lastBtnState;                   // попередній стан кнопки
+unsigned long lastDebounceTime = 0;  // час в мс (з моменту запуску скетча) останнього брязкоту
+unsigned long debounceDelay = 50;    // інтервал в мс на встановлення стабільного стану
+```
