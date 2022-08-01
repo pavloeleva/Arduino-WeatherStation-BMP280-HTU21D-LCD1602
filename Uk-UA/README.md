@@ -56,6 +56,7 @@
   <li>З'єднувальні проводи (dupon або інші)</li>
 </ul>
 
+<div id="code_1" padding-left="100">
 ```cpp
 // змінні для обробки натискання кнопки і її брязкоту
 const byte pinBtn = 10;              // пін плати Arduino, на який заведений вивід OUT модуля кнопки
@@ -64,3 +65,4 @@ byte lastBtnState;                   // попередній стан кнопк
 unsigned long lastDebounceTime = 0;  // час в мс (з моменту запуску скетча) останнього брязкоту
 unsigned long debounceDelay = 50;    // інтервал в мс на встановлення стабільного стану
 ```
+</div>
